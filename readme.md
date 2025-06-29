@@ -208,6 +208,9 @@ Estos son los paso a seguir para testear la api
 Primero, en su pagina principal.
 
 
+![Image Alt](https://github.com/Roberto-cb/server-ftp/blob/f127585ee5a68a2a8bdfd8e1cfa845ff191e7919/Screenshot_10.png)
+
+
 
 ## 🌐 Endpoints de la API REST
 
