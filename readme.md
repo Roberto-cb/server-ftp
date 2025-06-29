@@ -212,6 +212,7 @@ Primero, en su pagina principal.
 
 
 2) Para subir un archivo, tendra que darle el boton que dice seleccionar archivo:
+![Image Alt]()
 
 
 
