@@ -218,6 +218,11 @@ Buscara en su escritorio cualquier archivo que quiera subir, en mi caso sera una
 ![Image Alt](https://github.com/Roberto-cb/server-ftp/blob/b7ca58ee07dcbce59050d9ebe95d3873145a758f/Screenshot_2.png)
 
 
+3)Luego de subir el archivo debera aparecerle el nombre del archivo y con los botones de descargar, renombrar y eliminar.
+![Image Alt](https://github.com/Roberto-cb/server-ftp/blob/1bea814b9e57842c9d3523cb4932e31160a29161/Screenshot_3.png)
+
+
+
 
 
 ## 🌐 Endpoints de la API REST
