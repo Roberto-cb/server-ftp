@@ -214,6 +214,10 @@ Primero, en su pagina principal.
 2) Para subir un archivo, tendra que darle el boton que dice seleccionar archivo:
 ![Image Alt](https://github.com/Roberto-cb/server-ftp/blob/e17841ff1c27024957774547deddb61701f306b9/Screenshot_10.png)
 
+Buscara en su escritorio cualquier archivo que quiera subir, en mi caso sera una foto de queen.
+![Image Alt](https://github.com/Roberto-cb/server-ftp/blob/b7ca58ee07dcbce59050d9ebe95d3873145a758f/Screenshot_2.png)
+
+
 
 
 ## 🌐 Endpoints de la API REST
