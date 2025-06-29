@@ -222,6 +222,15 @@ Buscara en su escritorio cualquier archivo que quiera subir, en mi caso sera una
 ![Image Alt](https://github.com/Roberto-cb/server-ftp/blob/1bea814b9e57842c9d3523cb4932e31160a29161/Screenshot_3.png)
 
 
+4) Vamos a testear la funcionalidad de renombrar.
+   Vamos a precionar el boton azul de renombrar y le saldra lo siguiente.
+   ![Image Alt](https://github.com/Roberto-cb/server-ftp/blob/585a92c1940443f0de7ebd9f6bb4fa39654c40b9/Screenshot_4.png)
+   Dentro de ese input pondra el nuevo nombre del archivo, en mi caso deci escribir el nombre de la banda queen.png
+   Luego de darle acpertar le saldra lo suguiente.
+   
+   ![Image Alt](https://github.com/Roberto-cb/server-ftp/blob/585a92c1940443f0de7ebd9f6bb4fa39654c40b9/Screenshot_5.png)
+   Una confirmacion que muestrara por cual hemos cambiado el nombre al archivo, damos en aceptar.
+
 
 
 
