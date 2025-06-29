@@ -203,7 +203,10 @@ Al abrir esa URL en el navegador, podrás:
 
 Nota: al ser un certificado autofirmado, el navegador mostrará advertencia de seguridad. Puedes aceptarla para continuar.
 
----
+Estos son los paso a seguir para testear la api
+
+Primero, esta es su pagina principal: 
+![Image Alt](https://imgur.com/a/UerWD8c)
 
 ## 🌐 Endpoints de la API REST
 
