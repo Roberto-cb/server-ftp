@@ -205,9 +205,9 @@ Nota: al ser un certificado autofirmado, el navegador mostrará advertencia de s
 
 Estos son los paso a seguir para testear la api
 
-Primero, esta es su pagina principal:
+Primero, en su pagina principal.
 
-![Image Alt](https://imgur.com/A5tiGwy)
+
 
 ## 🌐 Endpoints de la API REST
 
