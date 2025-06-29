@@ -212,7 +212,7 @@ Primero, en su pagina principal.
 
 
 2) Para subir un archivo, tendra que darle el boton que dice seleccionar archivo:
-![Image Alt]()
+![Image Alt](https://github.com/Roberto-cb/server-ftp/blob/e17841ff1c27024957774547deddb61701f306b9/Screenshot_10.png)
 
 
 
