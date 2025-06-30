@@ -245,6 +245,10 @@ En este paso, para testear que se elimne el archivo, solo presionaremos en el bo
 ![Image Alt](https://github.com/Roberto-cb/server-ftp/blob/3b24aa1c20b545f8d2ca90b884df7bb653c30f4b/Screenshot_8.png)
 Nos preguntara si queremos eliminar el archio que hemos seleccionado. 
 Daremos en aceptar para continuar con la eliminacion.
+Y nos devolvera una notificacion que hemos eliminado el archivo exitosamente
+![Image Alt](https://github.com/Roberto-cb/server-ftp/blob/a429974900d1cc0f4ef9b5560cfd01f7e894e153/Screenshot_9.png)
+Recargue la pagina y asegurese que no aparezca el archivo.
+
 
 
    
