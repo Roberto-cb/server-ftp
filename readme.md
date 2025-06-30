@@ -56,20 +56,20 @@ FTSAPP_5/
 
 A continuación, se detallan los pasos completos para ejecutar el proyecto:
 
-### 1️⃣ Clonar el repositorio
+### 1️ Clonar el repositorio
 
 git clone <URL_DEL_REPOSITORIO>
 cd FTSAPP_5
 
 ---
 
-### 2️⃣ Instalar dependencias
+### 2️ Instalar dependencias
 
 npm install
 
 ---
 
-### 3️⃣ Generar certificados TLS (si no existen)
+### 3 Generar certificados TLS (si no existen)
 
 Puedes generar certificados autofirmados usando OpenSSL:
 
@@ -90,19 +90,8 @@ Si ya tienes certificados, cópialos en src/certs/:
 
 ---
 
-### 4️⃣ Iniciar el servidor TLS de archivos
 
-Este proceso escucha en el puerto 6000 y gestiona los comandos (GET, PUT, LIST, etc.):
-
-node src/secure-server.js
-
-Verás en consola:
-
-[SERVER] Servidor TLS escuchando en puerto 6000
-
----
-
-### 5️⃣ (Opcional) Usar el cliente interactivo en consola
+### 4 (Opcional) Usar el cliente interactivo en consola
 
 Puedes interactuar manualmente con el servidor TLS:
 
@@ -177,7 +166,7 @@ Los archivos descargados se guardan en src/downloads/ y los que subas deben esta
 
 ---
 
-### 6️⃣ Iniciar el servidor web HTTPS (API REST + UI)
+### 5 Iniciar el servidor web HTTPS (API REST + UI)
 Este es el servidor que gestiona archivos.
 
 node src/secure-server.js
