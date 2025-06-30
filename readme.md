@@ -234,6 +234,12 @@ Buscara en su escritorio cualquier archivo que quiera subir, en mi caso sera una
    Asegurece de que en la pagina principal le salga el archivo con el nuevo nombre, tal que asi:
  
  ![Image Alt](https://github.com/Roberto-cb/server-ftp/blob/72edd78ff1353acbaeec8ba2453332ae21c7b043/Screenshot_6.png)
+
+5)Descargar:
+Solo precione el boton de descargar y se bajara el archivo sin ningun problema:
+![Image Alt](https://github.com/Roberto-cb/server-ftp/blob/af61a3d2e2eef4311a692d12a37554bd412faae5/Screenshot_7.png)
+
+
    
 
 
