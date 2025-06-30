@@ -240,6 +240,13 @@ Solo precione el boton de descargar y se bajara el archivo sin ningun problema:
 ![Image Alt](https://github.com/Roberto-cb/server-ftp/blob/af61a3d2e2eef4311a692d12a37554bd412faae5/Screenshot_7.png)
 
 
+6)Eliminar:
+En este paso, para testear que se elimne el archivo, solo presionaremos en el boton azul eliminar y nos saldra lo siguiente:
+![Image Alt](https://github.com/Roberto-cb/server-ftp/blob/3b24aa1c20b545f8d2ca90b884df7bb653c30f4b/Screenshot_8.png)
+Nos preguntara si queremos eliminar el archio que hemos seleccionado. 
+Daremos en aceptar para continuar con la eliminacion.
+
+
    
 
 
