@@ -229,7 +229,12 @@ Buscara en su escritorio cualquier archivo que quiera subir, en mi caso sera una
    Luego de darle acpertar le saldra lo suguiente.
    
    ![Image Alt](https://github.com/Roberto-cb/server-ftp/blob/585a92c1940443f0de7ebd9f6bb4fa39654c40b9/Screenshot_5.png)
+
    Una confirmacion que muestrara por cual hemos cambiado el nombre al archivo, damos en aceptar.
+   Asegurece de que en la pagina principal le salga el archivo con el nuevo nombre, tal que asi:
+ 
+ ![Image Alt](https://github.com/Roberto-cb/server-ftp/blob/72edd78ff1353acbaeec8ba2453332ae21c7b043/Screenshot_6.png)
+   
 
 
 
